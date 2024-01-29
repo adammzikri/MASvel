@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
 
 class MapServices {
-  final String key = 'AIzaSyBAKxwj1EuJUDjSitZ22dNLF5daGnrvGCs';
+  final String key = 'Your_API_Key';
   final String types = 'geocode';
 
   Future<Map<String, dynamic>> getPlace(String? input) async {
