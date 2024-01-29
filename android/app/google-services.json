@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212548940545",
+    "project_id": "masvel-6a482",
+    "storage_bucket": "masvel-6a482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212548940545:android:a75ffc7853f12811ee2100",
+        "android_client_info": {
+          "package_name": "com.example.psm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212548940545-v8sec96gla17bk21ftvedosdi2qli1pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKxwj1EuJUDjSitZ22dNLF5daGnrvGCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212548940545-v8sec96gla17bk21ftvedosdi2qli1pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
