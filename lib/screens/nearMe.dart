@@ -48,7 +48,7 @@ class CurrLocationState extends State<CurrLocation> {
   Completer<GoogleMapController> _controller = Completer();
 
   late GoogleMapController googleMapController;
-  final key = 'AIzaSyBAKxwj1EuJUDjSitZ22dNLF5daGnrvGCs';
+  final key = 'Your_API_Key';
 
   Timer? _debounce;
 
