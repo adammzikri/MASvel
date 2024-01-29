@@ -1,6 +1,6 @@
 # masvel
 
-A new Flutter project.
+My last year FYP Project. MASvel is a travel information application where it give some information of the best places to visit in Malaysia especially in Batu Pahat.
 
 ## Getting Started
 
